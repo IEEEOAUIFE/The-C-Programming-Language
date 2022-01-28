@@ -1,4 +1,4 @@
-![PngItem_312155](https://user-images.githubusercontent.com/31941399/151494418-c0410dfa-2bdc-4215-8eb0-19528d834ef6.png)
+![image](https://user-images.githubusercontent.com/31941399/151500296-b869f938-515b-4336-8112-ee011a722aed.jpeg)
 
 # Contributing to The C Programming Language
 As much as we love your support and contribution ! We want to make contributing to this project as easy and transparent as possible, whether it's:
