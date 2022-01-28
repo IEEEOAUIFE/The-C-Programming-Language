@@ -13,7 +13,7 @@ As much as we love your support and contribution ! We want to make contributing 
 ## We Develop with Github
 We are currently using  github to host code, to track issues and feature requests, as well as accept pull requests.
 
-1. Fork the repo and create your branch from `master` with your username ❗❗ . please do not deviate from this approve to make things easy for the team .
+1. Fork the repo and create your branch from `master` with your username ❗❗ and this is the branch you should use to submit all your work to ensure organization . please do not deviate from this approve to make things easy for the team .
 2. If you've added code that should be tested, add tests.
 3. If you've changed APIs, update the documentation.
 4. Ensure the test suite passes.
